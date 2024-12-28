@@ -5,5 +5,5 @@ The files in this repository are for the USENIX 2025 paper: **A Mixed-Methods St
 In particular:
 - *survey_questions.txt* contains the listing survey questionnaire described in Section 3.1
 - *interview_questions.txt* contains the interview questionnaire described in Section 3.2
-- *interview_participant_info.png* shows interview participants' information, e.g., number of commits made in the past year
+- *interview_participant_info.png* describes interview participants' background information, e.g., number of commits made in the past year
 - *extended_table_of_codes.png* shows the full list of codes, extended from Table 2
