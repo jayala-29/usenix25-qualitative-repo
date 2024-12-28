@@ -1,86 +1,37 @@
 Semi-structured interview guide
 
-
-
 ((Project maintainer duties))
-
 0. Can you tell me about your duties as an open-source project maintainer? 
 
-
-
 ((Current vulnerability management practices))
-
 1. Can you elaborate on your process for handling OSS vulnerabilities? 
-
-
 2. What tools or platforms do you find the most effective for tracking and managing vulnerabilities? 
-
-
 3. Are there any aspects of these tools that you find particularly helpful?
-
-
 4. What tools or platforms do you find the least effective for tracking and managing vulnerabilities? 
-
-
 5. Are there any features of these tools that you find particularly lacking?
-
-
 6. How do you decide when to review and update your vulnerability management practices? Can you provide an example of a recent update and what prompted it? 
 
 
-
 ((Challenges with vulnerability management))
-
 7. In the survey, you mentioned several challenges in managing vulnerabilities, including [mention responses]. Can you provide more details about the most significant challenge(s)?
-
-
 8. How have these challenges impacted your project and overall workflow?
-
-
 9. Are there any particular hurdles you overcame? How?
-
-
 10. How do these hurdles affect your ability to manage vulnerabilities effectively? Can you provide an example?
 
-
-
 ((Challenges with platform security features))
-
 11. In the survey, you mentioned several challenges when using specific platform security features, including [mention responses]. Can you provide more details about the most significant challenge(s)?
-
-
 12. How have these challenges impacted your project and overall workflow?
-
-
 13. Are there any particular hurdles you overcame? How?
-
-
 14. How do these hurdles affect your ability to manage vulnerabilities effectively? Can you provide an example?
 
-
 ((Barriers to adopting platform security features))
-
 15. In the survey, you mentioned several barriers when considering using specific platform security features, including [mention responses]. Can you provide more details about the most significant barrier(s)?
-
-
 16. I noticed you did not mention using [platform security feature(s)]. Could you elaborate?
-
-
 17. What do you think would motivate you, if possible, to adopt more platform security features?
 
-
 ((Opportunities for improvement and support))
-
 18. You mentioned needing [resources and support] for vulnerability management. Can you expand on the specific types of support that would be most beneficial?
-
-
 19. In your opinion, what additional features or improvements should OSS platforms implement to better support vulnerability management?
-
-
 20. How would these improvements make a difference in your project? Workflow?
-
-
 21. How would you see emerging technologies, such as large language models, support you?
-
-
 22. Is there anything else you would like to add about software vulnerability management in your OSS project(s)?
