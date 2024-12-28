@@ -2,50 +2,21 @@ Listing survey questions and outline
 
 [Study information, eligibility criteria, privacy notice, etc.]
 
-
 Eligibility question: Do you reside in an OFAC-sanctioned region or are affiliated with an OFAC-sanction entity?
 
-
 1. How do you currently handle vulnerability reports in your OSS project(s)? Please describe in detail.
-
-
 2. What tooling or suggested practices, if any, do you use to track and manage vulnerabilities? Please list any software, services, or methodologies you rely on.
-
-
 3. How often do you review and update, if necessary, your vulnerability management practices? Please describe in detail.
-
-
 4. What are the challenges you currently face in managing OSS vulnerabilities? Please list all that you can think of.
-
-
 5. How would you describe your overall experience(s) with OSS vulnerability management? Please describe in detail.
-
-
 6. Which platform security features do you currently have enabled? Please list all that you have enabled.
-
-
 7. What challenges have you faced maintaining or publishing a security policy? Please list all that you can think of.
-
-	
 8. Do you have any suggestions for policies or guidelines that OSS platforms should implement to improve vulnerability management across repositories? If so, please list any policy or guideline recommendations.	
-
-
 9. What challenges have you faced maintaining and publishing security advisories? Please list all that you can think of.
-
-
 10. What challenges have you faced when considering or using the \textit{Private vulnerability reporting} feature? Please list all that you can think of.
-
-
 11. If applicable, please list any alternative mechanisms of reporting (e.g., email) or disclosure you use outside of platform security features. Please list all that you can think of.	
-
-
 12. What resources or tools you have found useful for managing vulnerabilities? Please list all that you can think of.
-
-
 13. Do you feel that the platform security tools provided by OSS platforms are sufficient for managing vulnerabilities? If not, what additional features or improvements would you like to see?	Please describe in detail.
-
-
 14. What resources or support would be most beneficial for you to improve your vulnerability management practices? Please list all that you can think of.
-
 
 [Background multiple choice questions]
