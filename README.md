@@ -1,4 +1,4 @@
-# usenix25-qualitative-repo
+# usenix25-qualitative-repo [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14721125.svg)](https://doi.org/10.5281/zenodo.14721125)
 
 The files in this repository are for the USENIX 2025 paper: **A Mixed-Methods Study of Open-Source Software Maintainers On Vulnerability Management and Platform Security Features**
 
